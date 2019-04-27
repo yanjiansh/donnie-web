@@ -1,4 +1,4 @@
-package main.java.hello;
+package com.donnie.hello;
 
 public class Greeting {
 
